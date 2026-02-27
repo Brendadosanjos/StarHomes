@@ -1,6 +1,5 @@
 # 🏠 Star Homes - Encontre seu lar ideal em Londres
 
-![Star Homes Logo](app/src/main/res/drawable/logohouse.png)
 
 ## 📱 Sobre o Projeto
 
